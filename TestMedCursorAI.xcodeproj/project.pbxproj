@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E30C057F2CF0C2F400302752 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E30C05662CF0C2F100302752 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E30C056D2CF0C2F100302752;
+			remoteInfo = TestMedCursorAI;
+		};
+		E30C05892CF0C2F400302752 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E30C05662CF0C2F100302752 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E30C056D2CF0C2F100302752;
+			remoteInfo = TestMedCursorAI;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E30C056E2CF0C2F100302752 /* TestMedCursorAI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestMedCursorAI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E30C057E2CF0C2F400302752 /* TestMedCursorAITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestMedCursorAITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E30C05882CF0C2F400302752 /* TestMedCursorAIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestMedCursorAIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E30C05702CF0C2F100302752 /* TestMedCursorAI */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestMedCursorAI;
+			sourceTree = "<group>";
+		};
+		E30C05812CF0C2F400302752 /* TestMedCursorAITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestMedCursorAITests;
+			sourceTree = "<group>";
+		};
+		E30C058B2CF0C2F400302752 /* TestMedCursorAIUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TestMedCursorAIUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E30C056B2CF0C2F100302752 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C057B2CF0C2F400302752 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C05852CF0C2F400302752 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E30C05652CF0C2F100302752 = {
+			isa = PBXGroup;
+			children = (
+				E30C05702CF0C2F100302752 /* TestMedCursorAI */,
+				E30C05812CF0C2F400302752 /* TestMedCursorAITests */,
+				E30C058B2CF0C2F400302752 /* TestMedCursorAIUITests */,
+				E30C056F2CF0C2F100302752 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E30C056F2CF0C2F100302752 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E30C056E2CF0C2F100302752 /* TestMedCursorAI.app */,
+				E30C057E2CF0C2F400302752 /* TestMedCursorAITests.xctest */,
+				E30C05882CF0C2F400302752 /* TestMedCursorAIUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E30C056D2CF0C2F100302752 /* TestMedCursorAI */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E30C05922CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAI" */;
+			buildPhases = (
+				E30C056A2CF0C2F100302752 /* Sources */,
+				E30C056B2CF0C2F100302752 /* Frameworks */,
+				E30C056C2CF0C2F100302752 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E30C05702CF0C2F100302752 /* TestMedCursorAI */,
+			);
+			name = TestMedCursorAI;
+			packageProductDependencies = (
+			);
+			productName = TestMedCursorAI;
+			productReference = E30C056E2CF0C2F100302752 /* TestMedCursorAI.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E30C057D2CF0C2F400302752 /* TestMedCursorAITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E30C05952CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAITests" */;
+			buildPhases = (
+				E30C057A2CF0C2F400302752 /* Sources */,
+				E30C057B2CF0C2F400302752 /* Frameworks */,
+				E30C057C2CF0C2F400302752 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E30C05802CF0C2F400302752 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E30C05812CF0C2F400302752 /* TestMedCursorAITests */,
+			);
+			name = TestMedCursorAITests;
+			packageProductDependencies = (
+			);
+			productName = TestMedCursorAITests;
+			productReference = E30C057E2CF0C2F400302752 /* TestMedCursorAITests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E30C05872CF0C2F400302752 /* TestMedCursorAIUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E30C05982CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAIUITests" */;
+			buildPhases = (
+				E30C05842CF0C2F400302752 /* Sources */,
+				E30C05852CF0C2F400302752 /* Frameworks */,
+				E30C05862CF0C2F400302752 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E30C058A2CF0C2F400302752 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E30C058B2CF0C2F400302752 /* TestMedCursorAIUITests */,
+			);
+			name = TestMedCursorAIUITests;
+			packageProductDependencies = (
+			);
+			productName = TestMedCursorAIUITests;
+			productReference = E30C05882CF0C2F400302752 /* TestMedCursorAIUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E30C05662CF0C2F100302752 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					E30C056D2CF0C2F100302752 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					E30C057D2CF0C2F400302752 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = E30C056D2CF0C2F100302752;
+					};
+					E30C05872CF0C2F400302752 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = E30C056D2CF0C2F100302752;
+					};
+				};
+			};
+			buildConfigurationList = E30C05692CF0C2F100302752 /* Build configuration list for PBXProject "TestMedCursorAI" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E30C05652CF0C2F100302752;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E30C056F2CF0C2F100302752 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E30C056D2CF0C2F100302752 /* TestMedCursorAI */,
+				E30C057D2CF0C2F400302752 /* TestMedCursorAITests */,
+				E30C05872CF0C2F400302752 /* TestMedCursorAIUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E30C056C2CF0C2F100302752 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C057C2CF0C2F400302752 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C05862CF0C2F400302752 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E30C056A2CF0C2F100302752 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C057A2CF0C2F400302752 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E30C05842CF0C2F400302752 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E30C05802CF0C2F400302752 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E30C056D2CF0C2F100302752 /* TestMedCursorAI */;
+			targetProxy = E30C057F2CF0C2F400302752 /* PBXContainerItemProxy */;
+		};
+		E30C058A2CF0C2F400302752 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E30C056D2CF0C2F100302752 /* TestMedCursorAI */;
+			targetProxy = E30C05892CF0C2F400302752 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E30C05902CF0C2F400302752 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E30C05912CF0C2F400302752 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E30C05932CF0C2F400302752 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TestMedCursorAI/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E30C05942CF0C2F400302752 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TestMedCursorAI/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E30C05962CF0C2F400302752 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestMedCursorAI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TestMedCursorAI";
+			};
+			name = Debug;
+		};
+		E30C05972CF0C2F400302752 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestMedCursorAI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TestMedCursorAI";
+			};
+			name = Release;
+		};
+		E30C05992CF0C2F400302752 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAIUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TestMedCursorAI;
+			};
+			name = Debug;
+		};
+		E30C059A2CF0C2F400302752 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = magnus.test.TestMedCursorAIUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TestMedCursorAI;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E30C05692CF0C2F100302752 /* Build configuration list for PBXProject "TestMedCursorAI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E30C05902CF0C2F400302752 /* Debug */,
+				E30C05912CF0C2F400302752 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E30C05922CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E30C05932CF0C2F400302752 /* Debug */,
+				E30C05942CF0C2F400302752 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E30C05952CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E30C05962CF0C2F400302752 /* Debug */,
+				E30C05972CF0C2F400302752 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E30C05982CF0C2F400302752 /* Build configuration list for PBXNativeTarget "TestMedCursorAIUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E30C05992CF0C2F400302752 /* Debug */,
+				E30C059A2CF0C2F400302752 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E30C05662CF0C2F100302752 /* Project object */;
+}
